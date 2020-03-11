@@ -1,0 +1,1 @@
+cmd_/home/user/sysprog/tree/dfs_tree.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/user/sysprog/tree/dfs_tree.ko /home/user/sysprog/tree/dfs_tree.o /home/user/sysprog/tree/dfs_tree.mod.o ;  true
