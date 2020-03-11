@@ -1,6 +1,2 @@
-# sp2018spring
-System Programming Course Spring 2018
-
-Google Drive:
-https://drive.google.com/drive/u/0/folders/1vH9mQAfQuO09YMnCEqof7ctcCI5Ay_jN
-
+Involves iterating over all tasks in the system using DFS tree
+In order to run it, you just have to create a module and insert it into kernel. the file's name is dfs_tree.c
